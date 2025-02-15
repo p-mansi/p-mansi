@@ -11,13 +11,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/p-mansi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-mansi&theme=algolia" alt="p-mansi" />
-</p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -163,6 +156,19 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/><a href="https://github.com/p-mansi">
     <img alt="Mansi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Mansi%20Contribution%20Graph&theme=react-dark" />
+</a>
+
+  <br/>
+
+</details>
+
+<details>
+  <summary><b>🔥 Streak Stats</b></summary>
+  <br/>
+	<a href="https://github.com/p-mansi">
+	<p align="center">
+  		<img src="https://github-readme-streak-stats.herokuapp.com/?user=p-mansi&theme=algolia" alt="p-mansi" />
+	</p>
 </a>
 
   <br/>
