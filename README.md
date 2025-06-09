@@ -171,6 +171,9 @@
 	<a href="https://github.com/p-mansi">
 	<p align="center">
   		<img src="https://github-readme-streak-stats.herokuapp.com/?user=p-mansi&theme=algolia" alt="p-mansi" />
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=p-mansi&theme=github-compact" alt="GitHub Activity Graph">
+
 	</p>
 </a>
 
