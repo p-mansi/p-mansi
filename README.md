@@ -158,7 +158,9 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/><a href="https://github.com/p-mansi">
-    <img alt="Mansi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Mansi%20Contribution%20Graph&theme=react-dark" />
+    <img alt="Mansi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=p-mansi&custom_title=Mansi%20Contribution%20Graph&theme=react-dark" />
+
+
 </a>
 
   <br/>
