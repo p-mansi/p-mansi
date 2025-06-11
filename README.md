@@ -1,5 +1,7 @@
 <!-- ![Mansi Padia - Developer](https://raw.githubusercontent.com/p-mansi/mansipb/refs/heads/main/mansi2.webp)-->
 <!-- ![Mansi Padia - Developer](https://github.com/p-mansi/mansipb/blob/53a4b36f030ec51be671d0798a1e099973b7ad49/mansi_padia_banner_resized.png) -->
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/p-mansi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 ![Mansi Padia - Developer](https://github.com/p-mansi/mansipb/blob/main/mansi_padia_banner_resized%20(1).png)
 
 <h1 align="center">HI, WELCOME TO MY GITHUB PROFILE!</h1>
