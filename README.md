@@ -2,6 +2,8 @@
 <!-- ![Mansi Padia - Developer](https://github.com/p-mansi/mansipb/blob/53a4b36f030ec51be671d0798a1e099973b7ad49/mansi_padia_banner_resized.png) -->
 
 ![Mansi Padia - Developer](https://github.com/p-mansi/mansipb/blob/main/mansi_padia_banner_resized%20(1).png)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=p-mansi)
+
 
 <h1 align="center">HI, WELCOME TO MY GITHUB PROFILE!</h1>
 <p align="center">
