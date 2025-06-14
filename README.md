@@ -114,8 +114,8 @@
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
-&emsp;
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
+<!--&emsp;
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a> -->
 &emsp;
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 
