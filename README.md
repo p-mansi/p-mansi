@@ -148,7 +148,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/p-mansi/github-readme-stats">
       <img alt="Mansi's GitHub Stats" 
            src="https://github-readme-stats-mu.vercel.app/api?username=p-mansi&show_icons=true&count_private=true&theme=algolia" 
            height="192px"/>
