@@ -142,26 +142,39 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<details>
+  <summary><b>🚀 My Top Projects</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/p-mansi/github-readme-stats">
-      <img alt="Mansi's GitHub Stats" 
-           src="https://github-readme-stats-mu.vercel.app/api?username=p-mansi&show_icons=true&count_private=true&theme=algolia" 
-           height="192px"/>
-    </a>
-    <br/><br/>
-    <img 
-      src="https://github-readme-stats-mu.vercel.app/api/top-langs?username=p-mansi&show_icons=true&locale=en&layout=compact&theme=algolia" 
-      alt="p-mansi" 
-      height="192px"
-    />
-    <br/><br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
+  ### 📌 Portfolio Website  
+  🔗 **Live:** https://mansi-portfolio.vercel.app  
+  🔗 **Repo:** https://github.com/p-mansi/mansi-portfolio  
+  📝 A modern, responsive personal portfolio built using React + Tailwind + Vercel deployment.
+
+  ---
+
+  ### 📚 BookMyResource – Campus Resource Reservation System  
+  🔗 **Backend Repo:** https://github.com/p-mansi/bookmyresource-backend  
+  🔗 **Frontend Repo:** https://github.com/p-mansi/bookmyresource-frontend  
+  📝 Full-stack Spring Boot + React system for managing resource bookings, approvals, notifications, and Google OAuth login.
+
+  ---
+
+  ### 📚 Django Library Management System  
+  🔗 **Repo:** https://github.com/p-mansi/django-library-management  
+  📝 Library system with Django REST Framework APIs for books and Django templates for authors.
+
+  ---
+
+  ### 🎯 MEAN Stack Student Portal  
+  🔗 **Repo:** https://github.com/p-mansi/mean-student-portal  
+  📝 Students can view details; admins can manage student records.
+
+  ---
+
+  <br/>
+  ⭐ More projects available on my GitHub profile:  
+  👉 https://github.com/p-mansi
 </details>
 
 
