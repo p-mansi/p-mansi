@@ -157,7 +157,7 @@
   🔗 **Backend Repo:** https://github.com/p-mansi/book-my-resource 
   🔗 **Frontend Repo:** https://github.com/p-mansi/frontend-book-my-resourse  
   📝 Full-stack Spring Boot + React system for managing resource bookings, approvals, notifications, and Google OAuth login.
-
+<!--
   ---
 
   ### 📚 Django Library Management System  
@@ -169,7 +169,7 @@
   ### 🎯 MEAN Stack Student Portal  
   🔗 **Repo:** https://github.com/p-mansi/mean-student-portal  
   📝 Students can view details; admins can manage student records.
-
+-->
   ---
 
   <br/>
