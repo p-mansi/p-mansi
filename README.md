@@ -154,7 +154,7 @@
   ---
 
   ### 📚 BookMyResource – Campus Resource Reservation System  
-  🔗 **Backend Repo:** https://github.com/p-mansi/book-my-resource 
+  🔗 **Backend Repo:** https://github.com/p-mansi/book-my-resource   
   🔗 **Frontend Repo:** https://github.com/p-mansi/frontend-book-my-resourse  
   📝 Full-stack Spring Boot + React system for managing resource bookings, approvals, notifications, and Google OAuth login.
 <!--
