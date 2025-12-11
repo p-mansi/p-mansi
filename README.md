@@ -194,7 +194,7 @@
   <br/>
 
 </details>
-
+<!--
 <details>
   <summary><b>🔥 Streak Stats</b></summary>
   <br/>
@@ -206,7 +206,7 @@
 
   <br/>
 
-</details>
+</details> -->
 
 <br/>
 
