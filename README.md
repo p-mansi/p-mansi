@@ -149,7 +149,7 @@
   ### 📌 Portfolio Website  
   🔗 **Live:** https://mansi-portfolio.vercel.app  
   🔗 **Repo:** https://github.com/p-mansi/mansi-portfolio  
-  📝 A modern, responsive personal portfolio built using React + Tailwind + Vercel deployment.
+  📝 A modern, responsive personal portfolio built using Html + CSS + JavaScript + Vercel deployment.
 
   ---
 
