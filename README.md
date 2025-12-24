@@ -22,54 +22,40 @@ and continuously improving my technical skills.
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-2370ED?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" />
 </p>
+
 
 ---
 
 ### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
+
 
 ---
 
 ### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
+
 
 ---
 
 ### 🧩 Frameworks & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,flutter,dotnet" />
 </p>
+
 
 ---
 
 ### 🧰 Tools & Software
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,netbeans" />
 </p>
 
 ---
@@ -105,6 +91,23 @@ and continuously improving my technical skills.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Mansi%20Padia%20Contribution%20Graph&theme=react-dark"/>
 </p>
+
+---
+
+📊 GitHub Stats & Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=p-mansi&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-mansi&layout=compact&theme=react&hide_border=true" height="160"/>
+</p>
+
+
+---
+
+## 🔥 GitHub Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-mansi&theme=react&hide_border=true" />
+</p>
+
 
 ---
 
