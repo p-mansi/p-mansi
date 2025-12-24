@@ -21,9 +21,10 @@ and continuously improving my technical skills.
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+<p align="center">### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" />
+</p>
 </p>
 
 
