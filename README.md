@@ -144,18 +144,14 @@ Check out my other repositories to see:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=p-mansi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=p-mansi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=p-mansi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" /> -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=p-mansi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 </p>
 
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-mansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&area_color=6366F1" alt="Contribution Graph" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p-mansi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p> -->
+<p align="center">
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-mansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" /> -->
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true" />
+</p>
 
 ---
 
