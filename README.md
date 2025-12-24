@@ -151,6 +151,7 @@ Check out my other repositories to see:
 <p align="center">
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-mansi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" /> -->
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p-mansi&theme=tokyonight" />
 </p>
 
 ---
