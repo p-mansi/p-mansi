@@ -101,7 +101,7 @@ I'm a passionate **MCA student** at Charotar University of Science and Technolog
 - Project showcase with live demos
 - Deployed on Vercel
 
-[![Live Demo](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=vercel)]([https://mansi-portfolio.vercel.app](https://mansi-portfolio-puce.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=vercel)](https://mansi-portfolio-puce.vercel.app/)
 [![Repo](https://img.shields.io/badge/Code-View_Repo-orange?style=for-the-badge&logo=github)](https://github.com/p-mansi/mansi-portfolio)
 
 </td>
