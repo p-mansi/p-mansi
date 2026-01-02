@@ -144,7 +144,9 @@ Check out my other repositories to see:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=p-mansi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+  <img width="49%" 
+     src="https://streak-stats.demolab.com?user=p-mansi&theme=tokyonight&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&currStreakNum=FFFFFF" />
+
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p-mansi&custom_title=Contribution%20Activity&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true" />
 </p>
 
